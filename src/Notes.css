@@ -1,0 +1,27 @@
+.notes h1 {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 0px;
+    background: rgba(0, 128, 0, 0.3);
+
+}
+
+
+
+.notes p{
+    float: down;
+    text-align: left;
+    padding: 0px 20px 0px 20px;
+    margin: 50px 0px 50px 0px;
+    background: rgba(66, 202, 66, 0.3);
+}
+
+.notes {
+    background: rgba(0, 128, 0, 0.3);
+    margin: 25px 50px;
+}
